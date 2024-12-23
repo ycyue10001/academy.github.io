@@ -8,4 +8,4 @@ My repositories will include codes and courses' notes during my academic life.
 
 - [Github](https://github.com/ycyue10001)
 - [Email](2465949609@qq.com)
-- [WeChat](yyc750750)
+- [WeChat](微信二维码)
